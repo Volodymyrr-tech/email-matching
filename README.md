@@ -7,8 +7,6 @@ This project is a JavaScript script that matches user emails with potential vari
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
